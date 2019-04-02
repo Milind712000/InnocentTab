@@ -15,8 +15,9 @@ const hideNSFW = () => {
 
     // update nsfw list
     nsfw = [
-        /facebook/,
-        /youtube/
+        /reddit/,
+        /youtube/,
+        /pornhub/
     ]
     // update sfw list
     sfw = [

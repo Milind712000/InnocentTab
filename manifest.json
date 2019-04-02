@@ -2,14 +2,14 @@
 	"manifest_version": 2,
 	"name": "Innocent Tab",
 	"version": "0.1",
-	"description":"swap your nsfw tabs with safe tabs",
+	"description":"swap your nsfw tabs with sfw tabs",
 	"permissions": [
 		"tabs",
 		"storage"
 	],
 	"commands":{
 		"hideNSFW":{
-			"description":"swap your nsfw tabs with safe tabs",
+			"description":"swap your nsfw tabs with sfw tabs",
 			"suggested_key":{
 				"default":"Ctrl+Shift+E"
 			}
